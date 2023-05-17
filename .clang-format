@@ -1,0 +1,10 @@
+---
+# https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+
+Language: Cpp
+BasedOnStyle: LLVM
+IndentWidth: 4
+Cpp11BracedListStyle: false
+BreakBeforeBraces: Linux
+AlignConsecutiveAssignments: Consecutive
+AllowShortFunctionsOnASingleLine: None
