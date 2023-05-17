@@ -2,8 +2,10 @@ An ansi c skeleton repository
 
 Resources
 
-- https://stackoverflow.com/a/30602701/2787738
-- https://docs.kernel.org/6.1/process/clang-format.html
-- https://clang.llvm.org/docs/ClangFormatStyleOptions.html
-- https://clang.llvm.org/docs/ClangFormat.html
 - https://www.gnu.org/software/make/manual/
+- https://www.gnu.org/software/gnu-c-manual/
+- https://www.gnu.org/software/libc/manual/
+- https://clang.llvm.org/docs/ClangFormat.html
+- https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+- https://docs.kernel.org/6.1/process/clang-format.html
+- https://stackoverflow.com/a/30602701/2787738
