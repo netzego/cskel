@@ -22,9 +22,13 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c | $(OBJ_DIR)
 clean:
 	@$(RM) -rv $(BIN_DIR) $(OBJ_DIR)
 
+run:
+	@$(TARGET)
+
 .PHONY: \
 	all \
-	clean
+	clean \
+	run
 
 .DEFAULT_GOAL := $(TARGET)
 
