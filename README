@@ -2,6 +2,7 @@ An ansi c skeleton repository
 
 Resources
 
+- https://stackoverflow.com/a/30602701/2787738
 - https://www.kernel.org/doc/html/v5.15-rc2/process/clang-format.html
 - https://clang.llvm.org/docs/ClangFormatStyleOptions.html
 - https://clang.llvm.org/docs/ClangFormat.html
